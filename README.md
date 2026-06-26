@@ -1,68 +1,45 @@
-<h1 align="center">Hi 👋, I'm Dikshita Sahare</h1>
-<h3 align="center">Data Scientist & AI/ML Engineer from Nagpur, India</h3>
+# 👋 Hi, I'm Dikshita!
 
-<br/>
+🎓 MCA Graduate | 📍 Nagpur, Maharashtra, India  
+💡 Aspiring Data Scientist & ML Engineer passionate about turning raw data into meaningful insights.
 
-## 👩‍💻 About Me
+---
 
-- 🎓 MCA graduate from **RTMNU University, Nagpur**
-- 💼 Worked as **Software Trainee** at Cojag Smart Technology Pvt. Ltd.
-- 🔬 Experienced in building end-to-end **ML/DL pipelines** for real-world applications
-- 🧠 Hands-on with **Computer Vision, Image Classification & Object Detection**
-- 🚀 Love deploying AI-powered solutions using **Streamlit**
-- 📊 Comfortable with the full data science workflow — from raw data to production
+## 🙋‍♀️ About Me
+
+I'm a recently graduated Master of Computer Applications (MCA) student with a strong foundation in **Data Science, Machine Learning, and Deep Learning**. I enjoy building end-to-end data-driven solutions — from data wrangling and exploratory analysis to deploying interactive dashboards and ML-powered applications.
+
+My work spans across customer segmentation, recommendation systems, predictive modeling, computer vision, and NLP — and I love making complex concepts simple and visual.
+
+- 🔭 Currently building my portfolio with real-world projects using Python, Streamlit, and Power BI
+- 🌱 Deepening my expertise in ML pipelines, model deployment, and advanced deep learning architectures
+- 🧠 Passionate about explaining AI/ML concepts in simple, relatable ways
+- 💬 Ask me about Data Science, Machine Learning, Python, or anything analytics!
+- 📫 Open to **Data Science** and **ML Engineer** opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-`Python` `SQL`
-
-**ML / DL**
-`Scikit-Learn` `TensorFlow` `Keras` `CNN` `LSTM` `ResNet` `YOLO` `Transfer Learning`
-
-**Computer Vision**
-`OpenCV` `Image Classification` `Object Detection`
-
-**Data & Visualization**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Folium` `Power BI`
-
-**Deployment & Tools**
-`Streamlit` `MySQL` `Jupyter Notebook` `VS Code` `GitHub`
+**Languages:** Python, SQL  
+**ML & DL:** Scikit-learn, TensorFlow, Keras, YOLOv8  
+**Data & Viz:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**Deployment:** Streamlit, Flask  
+**BI Tools:** Power BI  
+**Databases:** MySQL, SQLite  
+**Tools:** Git, Jupyter Notebook, VS Code
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🦺 PPE Detection System
-Real-time **Wearable Safety Equipment Detection** using Computer Vision & Deep Learning.  
-Trained **YOLO & CNN** models to detect helmets, gloves, vests, and masks from live video.  
-Applied transfer learning and data augmentation for high accuracy in varied conditions.  
-`Python` `YOLO` `CNN` `OpenCV` `TensorFlow` `Keras` `Streamlit`
-
----
-
-### 👁️ Diabetic Retinopathy Diagnosis
-Multi-class classification of **5 retinopathy severity stages** from retinal fundus images.  
-Built using **ResNet (Transfer Learning)** with high classification accuracy.  
-Deployed as an interactive web app using **Streamlit** for real-time clinical predictions.  
-`Python` `ResNet` `CNN` `TensorFlow` `Keras` `Streamlit`
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| 🛍️ **Shopper Spectrum** | Customer segmentation & product recommendation platform using RFM analysis and collaborative filtering | Python, KMeans, Streamlit |
+| 🐦 **Bird Species Observation Analysis** | Multi-park biodiversity dashboard with EDA, SQL storage & interactive visualizations | Python, Plotly, SQLite, Streamlit |
+| ✈️ **Tourism Experience Analytics** | Trip classification, rating prediction & multi-mode recommendation system | Python, Scikit-learn, Streamlit |
+| 👁️ **Diabetic Retinopathy Detection** | Deep learning model for early retinal disease diagnosis | TensorFlow, Keras, CNN |
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshitasahare&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshitasahare&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshita-sahare-80b353217/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dikshitasahare@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dikshitasahare)
+*"Data is the new oil — I'm here to refine it."* 🔥
