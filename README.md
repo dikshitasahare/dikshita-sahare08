@@ -105,10 +105,7 @@
 |------------|----------------|---------|
 | 🦺 **Wearable Safety Detection** | Real-time PPE compliance detection system using YOLOv8 to identify helmets, vests & safety gear on workers | Python, YOLOv8, OpenCV, Flask |
 | 👁️ **Diabetic Retinopathy Detection** | CNN-based deep learning model for early-stage retinal disease diagnosis from fundus images with high accuracy | TensorFlow, Keras, CNN, OpenCV |
-| ✈️ **Tourism Experience Analytics** | Trip type classification, rating prediction & multi-mode recommendation system (collaborative + content-based) | Python, Scikit-learn, Streamlit |
-| 🛍️ **Shopper Spectrum** | Customer segmentation & product recommendation platform using RFM analysis, KMeans & collaborative filtering | Python, Streamlit, Scikit-learn |
-| 🐦 **Bird Species Observation Analysis** | Multi-park biodiversity dashboard with EDA, SQL storage & 20+ interactive visualizations across 11 NPS parks | Python, Plotly, SQLite, Streamlit |
-| 📱 **PhonePe Transaction Insights** | Transaction analytics dashboard with JSON extraction, MySQL storage & SQL-driven business analysis | Python, MySQL, Streamlit |
+
 
 ---
 
@@ -124,7 +121,7 @@
 
 <div align="center">
 
-> *"Data is not just numbers — it's the story waiting to be told."* 📖✨
+
 
 <br/>
 
