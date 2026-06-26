@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 🙏 Namaste, I'm Dikshita Sahare!
+## Hello, I'm Dikshita Sahare!
 
 </div>
 
