@@ -109,13 +109,7 @@
 
 ---
 
-<div align="center">
 
-| 🌟 Top Contributed Repo | 💬 Random Dev Quote |
-|--------------------------|----------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dikshitasahare&repo=Shopper-Spectrum&theme=tokyonight&hide_border=true)](https://github.com/dikshitasahare) | ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
-
-</div>
 
 ---
 
