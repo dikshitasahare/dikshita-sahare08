@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## Hello, I'm Dikshita Sahare!
+## 🙏 Namaste, I'm Dikshita Sahare!
 
 </div>
 
@@ -34,7 +34,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshita-sahare-80b353217/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshitasahare@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikshita-sahare08)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikshitasahare)
 
 </div>
 
@@ -54,17 +54,15 @@
 
 ## 📊 GitHub Stats:
 
-## 📊 GitHub Stats:
-
 <div align="center">
 
-![Dikshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshita-sahare08&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![Dikshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshitasahare&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 &nbsp;&nbsp;
-![GitHub Streak](https://streak-stats.demolab.com/?user=dikshita-sahare08&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dikshitasahare&theme=tokyonight&hide_border=true)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshita-sahare08&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshitasahare&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
@@ -107,13 +105,20 @@
 |------------|----------------|---------|
 | 🦺 **Wearable Safety Detection** | Real-time PPE compliance detection system using YOLOv8 to identify helmets, vests & safety gear on workers | Python, YOLOv8, OpenCV, Flask |
 | 👁️ **Diabetic Retinopathy Detection** | CNN-based deep learning model for early-stage retinal disease diagnosis from fundus images with high accuracy | TensorFlow, Keras, CNN, OpenCV |
+| ✈️ **Tourism Experience Analytics** | Trip type classification, rating prediction & multi-mode recommendation system (collaborative + content-based) | Python, Scikit-learn, Streamlit |
 | 🛍️ **Shopper Spectrum** | Customer segmentation & product recommendation platform using RFM analysis, KMeans & collaborative filtering | Python, Streamlit, Scikit-learn |
 | 🐦 **Bird Species Observation Analysis** | Multi-park biodiversity dashboard with EDA, SQL storage & 20+ interactive visualizations across 11 NPS parks | Python, Plotly, SQLite, Streamlit |
-
+| 📱 **PhonePe Transaction Insights** | Transaction analytics dashboard with JSON extraction, MySQL storage & SQL-driven business analysis | Python, MySQL, Streamlit |
 
 ---
 
+<div align="center">
 
+| 🌟 Top Contributed Repo | 💬 Random Dev Quote |
+|--------------------------|----------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dikshitasahare&repo=Shopper-Spectrum&theme=tokyonight&hide_border=true)](https://github.com/dikshitasahare) | ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
+
+</div>
 
 ---
 
@@ -123,7 +128,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dikshita-sahare08&color=blueviolet&style=flat&label=Profile+Views)](https://github.com/dikshita-sahare08)
+[![Profile Views](https://komarev.com/ghpvc/?username=dikshitasahare&color=blueviolet&style=flat&label=Profile+Views)](https://github.com/dikshitasahare)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
